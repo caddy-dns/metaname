@@ -1,8 +1,8 @@
-module github.com/caddy-dns/template
+module github.com/caddy-dns/metaname
 
 go 1.16
 
 require (
-	github.com/caddyserver/caddy/v2 v2.3.0
-	github.com/libdns/template v0.1.0
+	github.com/caddyserver/caddy/v2 v2.4.0
+	github.com/libdns/metaname v0.3.0
 )
