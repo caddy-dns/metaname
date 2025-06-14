@@ -1579,6 +1579,8 @@ github.com/libdns/metaname v0.3.0 h1:HJudLYthdv52TupOPczojip/nEQHW7xqk5+whGReva4
 github.com/libdns/metaname v0.3.0/go.mod h1:a3hqEgj59tjWaWlF4WxQGhvMVtjz1E4Ngs1GfVS+VhQ=
 github.com/libdns/metaname v0.4.0 h1:rXgQnDdWg3ZZYKU+Fm0t3ZxFUmF8X5wInhg5QlajE3k=
 github.com/libdns/metaname v0.4.0/go.mod h1:8ScdpqoOsG7n+nc2Y7hnEyttiTqspq/VxRg9mjSviHY=
+github.com/libdns/metaname v0.4.1 h1:uTMnGnFnLGaSobuP1rnLVlDshc7BD6ImKeg/4agd5Tg=
+github.com/libdns/metaname v0.4.1/go.mod h1:8ScdpqoOsG7n+nc2Y7hnEyttiTqspq/VxRg9mjSviHY=
 github.com/libdns/template v0.1.0 h1:gmbb/wwhwusfRQ/u6z3jwVx1CIt2vFANT6TQtZ6wJJI=
 github.com/libdns/template v0.1.0/go.mod h1:q10c8nKXtGfAGdzqUy42Mo1joQRTcI/Fuy8lSj7HQCE=
 github.com/lightstep/lightstep-tracer-common/golang/gogo v0.0.0-20190605223551-bc2310a04743/go.mod h1:qklhhLq1aX+mtWk9cPHPzaBjWImj5ULL6C7HFJtXQMM=
