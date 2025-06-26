@@ -28,18 +28,18 @@ To use this module for the ACME DNS challenge, [configure the ACME issuer in you
 }
 ```
 
-or with the Caddyfile:
+or with the Caddyfile like:
 
 ```
 # globally
 {
-	acme_dns metaname {env.YOUR_METANAME_ACCOUNT_REFERENCE} {env.YOUR_METANAME_API_KEY}
+	acme_dns metaname YOUR_ACCOUNT_REFERENCE YOUR_API_KEY
 }
 ```
-
+or
 ```
 # one site
 tls {
-	dns metaname {env.YOUR_METANAME_ACCOUNT_REFERENCE} {env.YOUR_METANAME_API_KEY}
+	dns metaname {env.metaname_ref} {env.metaname_key}
 }
 ```
